@@ -1,0 +1,11 @@
+{
+  "MbitMore.onReceivedNumberWithLabel|block": "wenn Bezeichner $label und Nummer $numberData empfangen wurde",
+  "MbitMore.onReceivedTextWithLabel|block": "wenn Bezeichner $label und Text $textData empfangen wurde",
+  "MbitMore.sendNumberWithLabel|block": "Sende $numberData mit Bezeichner $label",
+  "MbitMore.sendTextWithLabel|block": "Sende Text $textData mit Bezeichner $label",
+  "MbitMore.startService|block": "Starte die Übertragung",
+  "MbitMoreDataContentType.MM_DATA_NUMBER|block": "Nummer",
+  "MbitMoreDataContentType.MM_DATA_TEXT|block": "Text",
+  "MbitMore|block": "Microbit More",
+  "{id:category}MbitMore": "Microbit More"
+}
